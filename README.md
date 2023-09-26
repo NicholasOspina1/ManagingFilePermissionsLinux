@@ -1,4 +1,4 @@
-# Managing File Permissions using Linux Commands
+# Managing File Permissions Using Linux Commands
 
 
 -------
